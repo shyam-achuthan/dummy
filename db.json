@@ -5,6 +5,36 @@
         "title": "hello"
       }
     ],
+    "events": [
+        {
+          "id": 1,
+          "date": "2022-03-09T17:51:56.689Z",
+          "title":"Lorem Ipsum dolor Sit amet 1",
+          "description":"Tiny description of the event is shown right under the Name of the event in smaller font.",
+          "speakers":[
+              {"name":"Dr Venugopal Manneni"}
+          ]
+        },
+        {
+            "id": 1,
+            "date": "2022-03-09T17:51:56.689Z",
+            "title":"Lorem Ipsum dolor Sit amet 2",
+            "description":"Tiny description of the event is shown right under the Name of the event in smaller font.",
+            "speakers":[
+                {"name":"Dr Sridhar Iriventi"}
+            ]
+          },
+          {
+            "id": 1,
+            "date": "2022-03-09T17:51:56.689Z",
+            "title":"Lorem Ipsum dolor Sit amet 3",
+            "description":"Tiny description of the event is shown right under the Name of the event in smaller font.",
+            "speakers":[
+                {"name":"Dr Venugopal Manneni"}
+            ]
+          }
+        
+      ],
     "profile": {
       "name": "typicode"
     }
