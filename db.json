@@ -39,7 +39,7 @@
           }
         },
         {
-            "id": 1,
+            "id": 2,
             "date": "2022-03-09T17:51:56.689Z",
             "slug":"event-2",
             "title":"Lorem Ipsum dolor Sit amet 2",
@@ -70,7 +70,7 @@
             }
           },
           {
-            "id": 1,
+            "id": 3,
             "date": "2022-03-09T17:51:56.689Z",
             "slug":"event-3",
             "title":"Lorem Ipsum dolor Sit amet 3",
