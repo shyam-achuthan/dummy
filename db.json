@@ -9,29 +9,96 @@
         {
           "id": 1,
           "date": "2022-03-09T17:51:56.689Z",
+          "slug":"event-1",
           "title":"Lorem Ipsum dolor Sit amet 1",
           "description":"Tiny description of the event is shown right under the Name of the event in smaller font.",
           "speakers":[
-              {"name":"Dr Venugopal Manneni"}
-          ]
+              {"name":"Dr Venugopal Manneni","profile_picture":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png","designaion":"Founder of Speakers forum",
+                "description":"Speaker description of the event is shown right under the Name of the event in smaller font."
+              }
+          ],
+          "category":{
+            "title":"Youth",
+            "name":"Health"
+          },
+          "preview_image":{
+            "createdAt": "2022-03-02T07:39:45.496Z",
+            "fileSize": 421666,
+            "id": 588,
+            "mime": "image/png",
+            "parentId": null,
+            "previewURL": "//prod-wishwa.s3.ap-south-1.amazonaws.com/campaign/0003-001-000000000040/images/8101-1646206785399-5393-1644922287938-3 (1).png",
+            "protected": 0,
+            "resolution": "1080x704",
+            "status": 0,
+            "storageURL": "//prod-wishwa.s3.ap-south-1.amazonaws.com/campaign/0003-001-000000000040/images/8101-1646206785399-5393-1644922287938-3 (1).png",
+            "type": 0,
+            "updatedAt": "2022-03-02T07:39:45.496Z",
+            "uuid": "0003-001-000000000040",
+            "version": "1"
+          }
         },
         {
             "id": 1,
             "date": "2022-03-09T17:51:56.689Z",
+            "slug":"event-2",
             "title":"Lorem Ipsum dolor Sit amet 2",
             "description":"Tiny description of the event is shown right under the Name of the event in smaller font.",
             "speakers":[
-                {"name":"Dr Sridhar Iriventi"}
-            ]
+                {"name":"Dr Sridhar Iriventi","profile_picture":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png","designaion":"Founder of Iriventi",
+                  "description":"Speaker description of the event is shown right under the Name of the event in smaller font."}
+            ],
+            "category":{
+              "title":"Youth",
+              "name":"Health"
+            },
+            "preview_image":{
+              "createdAt": "2022-03-02T07:39:45.496Z",
+              "fileSize": 421666,
+              "id": 588,
+              "mime": "image/png",
+              "parentId": null,
+              "previewURL": "//prod-wishwa.s3.ap-south-1.amazonaws.com/campaign/0003-001-000000000040/images/8101-1646206785399-5393-1644922287938-3 (1).png",
+              "protected": 0,
+              "resolution": "1080x704",
+              "status": 0,
+              "storageURL": "//prod-wishwa.s3.ap-south-1.amazonaws.com/campaign/0003-001-000000000040/images/8101-1646206785399-5393-1644922287938-3 (1).png",
+              "type": 0,
+              "updatedAt": "2022-03-02T07:39:45.496Z",
+              "uuid": "0003-001-000000000040",
+              "version": "1"
+            }
           },
           {
             "id": 1,
             "date": "2022-03-09T17:51:56.689Z",
+            "slug":"event-3",
             "title":"Lorem Ipsum dolor Sit amet 3",
             "description":"Tiny description of the event is shown right under the Name of the event in smaller font.",
             "speakers":[
-                {"name":"Dr Venugopal Manneni"}
-            ]
+                {"name":"Dr Venugopal Manneni","profile_picture":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png","designaion":"Founder of Gobharathi",  "description":"Speaker description of the event is shown right under the Name of the event in smaller font."
+                }
+            ],
+            "category":{
+              "title":"Youth",
+              "name":"Health"
+            },
+            "preview_image":{
+              "createdAt": "2022-03-02T07:39:45.496Z",
+              "fileSize": 421666,
+              "id": 588,
+              "mime": "image/png",
+              "parentId": null,
+              "previewURL": "//prod-wishwa.s3.ap-south-1.amazonaws.com/campaign/0003-001-000000000040/images/8101-1646206785399-5393-1644922287938-3 (1).png",
+              "protected": 0,
+              "resolution": "1080x704",
+              "status": 0,
+              "storageURL": "//prod-wishwa.s3.ap-south-1.amazonaws.com/campaign/0003-001-000000000040/images/8101-1646206785399-5393-1644922287938-3 (1).png",
+              "type": 0,
+              "updatedAt": "2022-03-02T07:39:45.496Z",
+              "uuid": "0003-001-000000000040",
+              "version": "1"
+            }
           }
         
       ],
